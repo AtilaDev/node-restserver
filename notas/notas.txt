@@ -1,1 +1,0 @@
-mongodb://cafe-user:cBrHtj3A356eKUIG91pH@ds113703.mlab.com:13703/cafe
